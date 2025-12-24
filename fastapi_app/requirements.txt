@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+pydantic
+python-dotenv
+sqlalchemy
+dotenv
+psycopg2
+python-multipart
+alembic
